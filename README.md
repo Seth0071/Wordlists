@@ -6,15 +6,17 @@ Note: The Code i programmed will instantly create a file so you dont have to cop
 
 This repository includes / will include: 
 
-  Number Wordlists: 
-    - 4 digit 
-    - 5 digit 
-    - 6 digit 
-    - 7 digit 
-    - 8 digit 
+  Number Wordlists:
+  
+   - 4 digit 
+  - 5 digit 
+  - 6 digit 
+  - 7 digit 
+   - 8 digit 
 
   Dictionary Wordlists: 
-    - /  
+  
+   - /  
 
   Common Password Wordlists: 
 
