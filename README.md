@@ -1,12 +1,12 @@
-# Wordlists \n
+# Wordlists 
 As its sometimes hard to find the wordlist you need, heres a tiny collection of some with 
 the code i used to create them. 
 
 Note: The Code i programmed will instantly create a file so you dont have to copy past the whole wordlist 
 
-This repository includes / will include: \n
+This repository includes / will include: 
 
-  Number Wordlists: \n
+  Number Wordlists: 
     - 4 digit 
     - 5 digit 
     - 6 digit 
